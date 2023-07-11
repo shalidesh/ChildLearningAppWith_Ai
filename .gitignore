@@ -1,7 +1,10 @@
 DraftSubmission
 DraftSubmission.zip
 client/node_modules
-client/wise-key-386709-fad3d40a9902.json
 api/myenv
+api/models
 speechText/node_modules
-speechText/wise-key-386709-fad3d40a9902.json
+speechText/speech-recognition-390414-e8fd6889c68a.json
+images
+nodeapi/node_modules
+nodeapi/speech-recognition-390414-e8fd6889c68a.json
